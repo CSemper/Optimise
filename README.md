@@ -15,4 +15,4 @@ Currently, the team is searching for the best options to deploy the app online u
 Language: Python || Testing: Pytest || Other Frameworks: Tkinter
 <br/> 
 
-### Demo: Feel free to [Check Out a Demo Here!](https://youtu.be/KtCQ5EJpOGY)
+### [Check Out a Demo Here!](https://youtu.be/KtCQ5EJpOGY)
