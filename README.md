@@ -14,11 +14,5 @@ Language: Python || Testing: Pytest || Other Frameworks: Tkinter, ***Google Clou
 <br/> 
 <br/> 
 
-### Project Prezi Presentation:
-
-Want an insight into my reflections? Maybe you're interested in what I learned? Or even how I think this could have been improved! Feel free to [Check Out My Presentation Here!](https://prezi.com/p/edit/wwzm0xyylhfx/)
-
-
-### Snapshots & Outputs:
-
-The demo video is "OrderUpMovie.mp4" in this repository. However, feel free to [Check It Out Here!](https://youtu.be/u20lr1NblYQ)
+### Demo:
+Feel free to [Check Out a Demo Here!](https://youtu.be/KtCQ5EJpOGY)
