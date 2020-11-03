@@ -7,13 +7,12 @@
 I've been working as a Recruitment Manager for a small sales and marketing company based in Birmingham. As part of my role, I needed to daily screen between 20-100 candidate responses to a Google Form. The task was time-consuming and also quite repetitive.
 
 Optimise is a desktop-based GUI application that was created as a solution to this problem. Although the application is still in the early stages of development, it has already been useful reducing task duration from an hour to mere seconds.
-Currently, the team is searching for the best options to deploy the app online using a suitable cloud provider.
 
+Currently, the team is searching for the best options to deploy the app online using a suitable cloud provider.
 <br/> 
 
 ### Technologies: 
-Language: Python || Testing: Pytest || Other Frameworks: Tkinter, ***Google Cloud, Google Forms API***
-
+Language: Python || Testing: Pytest || Other Frameworks: Tkinter
 <br/> 
 
 ### Demo:
